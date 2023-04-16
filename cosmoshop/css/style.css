@@ -1,0 +1,32 @@
+body {
+  font-family: "Nunito", sans-serif;
+  font-size: 12px;
+  line-height: 16px;
+  color: #151413;
+  background-color: #fffdfc;
+}
+
+.main-nav {
+  background-color: #151413;
+}
+
+.site-navigation-item a {
+  color: #fffdfc;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.site-navigation-item a.active {
+  text-decoration: underline;
+  text-decoration-color: #dc5b34;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+  text-underline-position: under;
+}
+
+.service-navigation-item a {
+  color: #fffdfc;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+

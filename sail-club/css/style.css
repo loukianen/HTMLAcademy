@@ -1,0 +1,104 @@
+a {
+  color: #163152;
+  text-decoration: none;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  color: #163152;
+  background-color:#FDFDFF;
+}
+
+.site-navigation-item a {
+  font-size: 14px;
+  line-height: 18px;
+  text-transform: uppercase;
+}
+
+.hiro-block_header {
+  font-style: italic;
+  font-weight: 400;
+  font-size: 44px;
+  line-height: 60px;
+  text-transform: uppercase;
+}
+
+.ads-article_date {
+  font-size: 14px;
+  line-height: 18px;
+  text-transform: uppercase;
+}
+
+.ads-article_header {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 34px;
+  text-decoration: underline;
+  text-decoration-color: #00C6BD;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 15px;
+  text-underline-position: under;
+}
+
+.news {
+  font-size: 18px;
+  line-height: 26px;
+}
+
+.photo-caption {
+  color: #8693A4;
+  font-size: 14px;
+  line-height: 19px;
+}
+
+.news-header {
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 26px;
+}
+
+.news-subheader {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 26px;
+}
+
+.ads-article blockquote {
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 36px;
+  border-left: 2px solid #00C6BD;
+  padding-left: 20px;
+}
+
+.author {
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.author_name {
+  font-size: 16px;
+}
+
+.contact-item {
+  line-height: 22px;
+}
+
+.main-footer {
+  font-size: 10px;
+  line-height: 12px;
+}
+
+.footer-menu-item h2 {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 18px;
+  text-transform: uppercase;
+}
+
+.footer-submenu-item a {
+  font-size: 14px;
+  line-height: 16px;
+}
